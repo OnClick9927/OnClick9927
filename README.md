@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnClick9927&hide=prs&count_private=true&theme=dark&show_icons=true)](https://github.com/OnClick9927)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OnClick9927&repo=WooPool)](https://github.com/OnClick9927/WooPool)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OnClick9927&repo=IFramework&theme=dark&show_icons=true)](https://github.com/OnClick9927/IFramework)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OnClick9927&repo=IFramework-Unity&theme=dark&show_icons=true)](https://github.com/OnClick9927/IFramework-Unity)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OnClick9927&repo=WooAsset&theme=dark&show_icons=true)](https://github.com/OnClick9927/WooAsset)
