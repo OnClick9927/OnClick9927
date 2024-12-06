@@ -3,7 +3,7 @@ name: green365
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     - cron: "* * * * *"
 
