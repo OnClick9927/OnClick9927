@@ -1,4 +1,4 @@
-name: generate animation
+name: sanke
 
 on:
   # run automatically every 2 hours
