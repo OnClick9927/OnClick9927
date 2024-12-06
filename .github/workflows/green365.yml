@@ -3,7 +3,7 @@ name: green365
 on:
   push:
     branches:
-      - output
+      - main
   schedule:
     - cron: "* * * * *"
 
@@ -11,7 +11,7 @@ jobs:
   autogreen:
     runs-on: ubuntu-latest
     steps:
-      - name: Clone repository
+      - name: Clone https://github.com/OnClick9927/OnClick9927.git
         uses: actions/checkout@v2
 
       - name: Auto green
