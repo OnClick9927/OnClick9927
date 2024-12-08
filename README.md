@@ -16,5 +16,5 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OnClick9927&repo=WooPool&theme=dark&show_icons=true)](https://github.com/OnClick9927/WooPool)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OnClick9927&repo=ActionEditor&theme=dark&show_icons=true)](https://github.com/OnClick9927/ActionEditor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OnClick9927&repo=ActionEditor&theme=dark&show_icons=true&1234)](https://github.com/OnClick9927/ActionEditor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OnClick9927&repo=WooServer&theme=dark&show_icons=true&123456)](https://github.com/OnClick9927/WooServer)
