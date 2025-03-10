@@ -6,7 +6,6 @@
 </picture>
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&preferLogin=true">    <img  alt="OnClick9927's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/OnClick9927?cardType=level-alternate&theme=github-dark&preferLogin=true" />  </a>
 
-https://github.com/OnClick9927/IFramework
   
 [IFramework](https://github.com/OnClick9927/IFramework)
 
