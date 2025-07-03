@@ -1,4 +1,6 @@
 # [主页](https://OnClick9927.github.io)
+![corle-bell's GitHub stats](https://github-readme-stats.vercel.app/api?username=onclick9927&show_icons=true&theme=radical)
+
 
 ## 相关仓库地址
 ### Unity
