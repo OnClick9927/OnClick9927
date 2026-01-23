@@ -8,7 +8,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=onclick9927&repo=WooTween&theme=dark)](https://github.com/OnClick9927/WooTween)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=onclick9927&repo=WooTimer&theme=dark)](https://github.com/OnClick9927/WooTimer)
 [![资源热更](https://github-readme-stats.vercel.app/api/pin/?username=onclick9927&repo=WooAsset&theme=dark)](https://github.com/OnClick9927/WooAsset)
-[![节点编辑器](https://github-readme-stats.vercel.app/api/pin/?username=onclick9927&repo=NodeGraph&theme=dark)](https://github.com/OnClick9927/NodeGraph)
 [![本地化](https://github-readme-stats.vercel.app/api/pin/?username=onclick9927&repo=WooLocalization&theme=dark)](https://github.com/OnClick9927/WooLocalization)
 [![轨道编辑器](https://github-readme-stats.vercel.app/api/pin/?username=onclick9927&repo=ActionEditor&theme=dark)](https://github.com/OnClick9927/ActionEditor)
 
